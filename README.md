@@ -1,4 +1,4 @@
-- coffe sale analysis using Excel
+- coffee sale analysis using Excel
 - Top 5 products
 - Area Wise Sales
 - Quantity based on days
